@@ -1,6 +1,6 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-<h3 align="center">Desafio: Relacionamentos com banco de dados no Node.js</h3>
+<h3 align="center">Desafio 09: Relacionamentos com banco de dados no Node.js</h3>
 
 <p align="center">
   <img alt="GitHub license" src="https://img.shields.io/github/license/andrewdourado/gostack-desafio-typeorm-relations?style=for-the-badge"></a>
